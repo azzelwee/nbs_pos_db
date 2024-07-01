@@ -1,1 +1,1 @@
-# nbs_pos_db
+# This is the NBS_POS Database.
